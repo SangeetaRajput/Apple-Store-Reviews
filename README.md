@@ -6,19 +6,19 @@ This repository contains a comprehensive statistical analysis of the Apple Store
 # Project Overview
 The project explores several core statistical topics applied to the Apple Store Reviews dataset, including:
 
-Central Tendency Analysis (Mean, Median, Mode)
+• Central Tendency Analysis (Mean, Median, Mode)
 
-Spread of Data (Range, Interquartile Range)
+• Spread of Data (Range, Interquartile Range)
 
-Variability Analysis (Variance, Standard Deviation)
+• Variability Analysis (Variance, Standard Deviation)
 
-Correlation Analysis (Likes vs. Ratings)
+• Correlation Analysis (Likes vs. Ratings)
 
-Distribution Analysis (Skewness of Ratings)
+• Distribution Analysis (Skewness of Ratings)
 
-Hypothesis Testing (Instagram vs. WhatsApp Ratings)
+• Hypothesis Testing (Instagram vs. WhatsApp Ratings)
 
-Demonstration of the Central Limit Theorem (CLT)
+• Demonstration of the Central Limit Theorem (CLT)
 
 # Analysis Details
 
@@ -48,7 +48,7 @@ Conclusion:
 
 • The Range indicates the full spread between the smallest and largest purchases.
 
-The IQR focuses on the middle 50%, giving a clearer picture of typical purchase amounts.
+• The IQR focuses on the middle 50%, giving a clearer picture of typical purchase amounts.
 
 3.Variability Analysis
 
